@@ -1,7 +1,3 @@
-paste code here :)
-
-Yay somewhere to put code snippets
-
 var http, options, proxy, url;
 http = require("http");
 
